@@ -18,7 +18,7 @@ $/doctype/jscript.html in c++\
   autocomplete: 
      using: get.copilot
      at: supreme concious,
-     owner: master333-ui-web,
+     owner: chaisfitzwater@master333-ui-web.github.com,
      
 
 -a->
